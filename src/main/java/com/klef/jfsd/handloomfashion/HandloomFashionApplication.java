@@ -9,7 +9,7 @@ public class HandloomFashionApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(HandloomFashionApplication.class, args);
 		
-		System.out.println("project is running.....");
+		System.out.println("project is working");
 	}
 
 }
